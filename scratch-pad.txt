@@ -1,0 +1,6 @@
+table: users
+---------------------
+firstName: TEXT
+lastName: TEXT
+age: INT
+email: TEXT
